@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingSystemDesktopUI", "GradingSystemDesktopUI.csproj", "{09AF8D06-3663-4631-BE87-2B59CA40292D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AF8D06-3663-4631-BE87-2B59CA40292D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AF8D06-3663-4631-BE87-2B59CA40292D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AF8D06-3663-4631-BE87-2B59CA40292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AF8D06-3663-4631-BE87-2B59CA40292D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C957EBB4-CACA-4A23-8481-C4AF3C2B11F8}
+	EndGlobalSection
+EndGlobal
