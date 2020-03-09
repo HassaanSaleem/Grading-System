@@ -1,0 +1,15 @@
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\bin\Debug\GradingSystemDesktopUI.exe.config
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\bin\Debug\GradingSystemDesktopUI.exe
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\bin\Debug\GradingSystemDesktopUI.pdb
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\GradingSystemDesktopUI.csprojAssemblyReference.cache
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\MainWindow.g.cs
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\App.g.cs
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\GradingSystemDesktopUI_MarkupCompile.cache
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\GradingSystemDesktopUI_MarkupCompile.lref
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\MainWindow.baml
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\GradingSystemDesktopUI.g.resources
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\GradingSystemDesktopUI.Properties.Resources.resources
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\GradingSystemDesktopUI.csproj.GenerateResource.cache
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\GradingSystemDesktopUI.csproj.CoreCompileInputs.cache
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\GradingSystemDesktopUI.exe
+C:\Users\salee\source\Workspaces\Grading System (IPT)\GradingSystemDesktopUI\GradingSystemDesktopUI\obj\Debug\GradingSystemDesktopUI.pdb
